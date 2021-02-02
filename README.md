@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<p>点击按钮，在等待 3 秒后弹出 "Hello"。</p>
+<p>点击按钮，在等待3秒后弹出 "Hello"。</p>
 <button onclick="myFunction()">点我</button>
 <script>
 function myFunction(){
