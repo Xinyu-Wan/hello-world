@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head> 
-<meta charset="utf-0"> 
+<meta charset="utf-8"> 
 <title>万万万测试</title> 
 </head>
 <body>
